@@ -16,5 +16,9 @@
 include:
   - board: nice_nano_v2
     shield: sofle_left
+
+    studio-rpc-usb-uart
+    
   - board: nice_nano_v2
     shield: sofle_right
+    
